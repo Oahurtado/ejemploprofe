@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021436567770",
+    "firebase_url": "https://uceva-56c73.firebaseio.com",
+    "project_id": "uceva-56c73",
+    "storage_bucket": "uceva-56c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021436567770:android:df80bce8f0680e42",
+        "android_client_info": {
+          "package_name": "com.example.oscar.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021436567770-um94id9kulm26ticvbo515ulr6j6host.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oscar.firebase2",
+            "certificate_hash": "d1e669eb623482fcf08ce4a587c633add04af5fa"
+          }
+        },
+        {
+          "client_id": "1021436567770-3c93uammh52lj18uur1pi6upmamd94d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdpiFibwmXVJCkpZA4b3fAMgO6WT1Bu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021436567770-3c93uammh52lj18uur1pi6upmamd94d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
